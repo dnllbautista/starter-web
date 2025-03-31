@@ -4,7 +4,10 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+Sample two only
+
 ## How to contribute
+fbgiuwgiwf
 
 ## Purpose
 
