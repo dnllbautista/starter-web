@@ -12,3 +12,7 @@ fbgiuwgiwf
 ## Purpose
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2025 Git traning 
