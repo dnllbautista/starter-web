@@ -1,8 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-Adding a line sample, more chahes and or aadtingn
-afdbrferfn
+Adding a line sample, more chahes. Updating for emergency fix after
+stashing
 
 ## Introduction
 
